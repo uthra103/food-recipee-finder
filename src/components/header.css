@@ -1,0 +1,31 @@
+h2,
+h1 {
+  font-family: "Mrs Sheppards", cursive;
+}
+
+span {
+  Color: #F49C19
+}
+
+.foodlook {
+  font-family: "Chela One", system-ui;
+
+}
+
+.foodlook:hover {
+  color: #F49C19;
+}
+
+a {
+  color: #F49C19;
+  text-decoration: none;
+}
+
+a:hover {
+  color: black;
+
+}
+
+.card {
+  margin-left: '100px';
+}

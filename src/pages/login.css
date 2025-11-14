@@ -1,0 +1,24 @@
+.head {
+  font-family: 'Dancing Script', cursive;
+}
+
+.hed {
+  font-family: "Mrs Sheppards", cursive;
+}
+
+
+
+
+
+.reg:hover {
+  background-color: #F49C19;
+}
+
+.container1 {
+  background: url('https://cdn.mamamia.com.au/wp/wp-content/uploads/2017/12/14142051/eat-fit-food-gallery-7.jpg');
+  background-size: cover;
+}
+
+.card {
+  background-color: rgba(225, 225, 225, 0.5);
+}
