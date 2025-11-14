@@ -3,7 +3,7 @@ import { useLocation, useNavigate, useParams } from "react-router-dom";
 import { doc, updateDoc } from "firebase/firestore";
 import { db } from "./Firebase";
 import { Container, Form, Button, Card, Row, Col } from "react-bootstrap";
-import './Input.css'
+import './input.css'
 function EditRecipe() {
   const { id } = useParams();
   const navigate = useNavigate();
